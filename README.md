@@ -15,3 +15,6 @@ Contains sample codes written in C language with http://www.glfw.org/, an actual
 - Add the framework by searching `/usr/local/lib`
 - Add `/usr/local/lib` to Header Search Path in XCode setting
 - Hit command + B to build your program
+
+# Credits
+Huge thanks to https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html for providing awesome sample codes for learning process.
