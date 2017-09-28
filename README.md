@@ -1,6 +1,6 @@
 # ComputerGraphics
 
-Contains sample codes written in C language with http://www.glfw.org/, an actual implementation based on OpenGl, to grasp basic drawing.
+Contains sample codes written in C language with http://www.glfw.org/, an actual implementation based on OpenGL, for grasping basic drawing knowledge.
 
 # Installation
 
